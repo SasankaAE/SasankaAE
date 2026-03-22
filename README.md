@@ -1,195 +1,164 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFCA28,75:4FC3F7,100:CE93D8&height=200&section=header&text=Sasanka%20Akash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%9A%A1%20AI%2FML%2FDL%20Engineer%20%F0%9F%A4%96&descSize=20&descAlignY=62&animation=fadeIn" />
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ███████╗ █████╗ ███████╗ █████╗ ███╗  ██╗██╗  ██╗ █████╗  ║
+║   ██╔════╝██╔══██╗██╔════╝██╔══██╗████╗ ██║██║ ██╔╝██╔══██╗ ║
+║   ███████╗███████║███████╗███████║██╔██╗██║█████╔╝ ███████║ ║
+║   ╚════██║██╔══██║╚════██║██╔══██║██║╚████║██╔═██╗ ██╔══██║ ║
+║   ███████║██║  ██║███████║██║  ██║██║ ╚███║██║  ██╗██║  ██║ ║
+║   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚═╝╚═╝  ╚═╝ ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;AI+%2F+ML+%2F+DL+Engineer+%F0%9F%A4%96;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40sasanka%3A~%24+whoami;%3E+Full+Stack+Software+Engineer+%F0%9F%9A%80;%3E+AI+%2F+ML+%2F+DL+Engineer+%F0%9F%A4%96;%3E+Building+the+future...+%5B%E2%96%88%5D)](https://git.io/typing-svg)
 
-<!-- Badges row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SESasanka&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS" />
-  <a href="https://sasanka.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF8E53?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/sasanka-akash"><img src="https://img.shields.io/badge/LinkedIn-Connect-4FC3F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/📍_Sri_Lanka-🇱🇰-FFCA28?style=for-the-badge" />
-</p>
+![](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&logo=statuspage&logoColor=00FF41&labelColor=0d1117)
+![](https://img.shields.io/badge/LOCATION-Sri_Lanka_🇱🇰-00FF41?style=flat-square&labelColor=0d1117&color=00FF41)
+![](https://img.shields.io/badge/COMPANY-Synthwave_Software-00FF41?style=flat-square&labelColor=0d1117&color=00FF41)
+[![](https://komarev.com/ghpvc/?username=SESasanka&color=00FF41&style=flat-square&label=VISITORS)](https://github.com/SESasanka)
 
 </div>
 
 ---
 
-## 🎨 About Me
+```bash
+$ cat /etc/sasanka/profile.conf
+```
 
-```python
-class SasankaAkash:
-    def __init__(self):
-        self.name        = "Sasanka Akash"
-        self.location    = "Sri Lanka 🇱🇰"
-        self.company     = "Synthwave Software Solutions"
-        self.roles       = ["Full Stack Engineer", "AI/ML/DL Engineer"]
-        self.languages   = ["Python 🐍", "JavaScript ⚡", "TypeScript 🔷", "Java ☕", "C++ 💎"]
-        self.passions    = ["Deep Learning 🧠", "Computer Vision 👁️", "Cloud Infra ☁️", "Clean Code 🧹"]
-        self.youtube     = "@codingwithsasanka 🎬"
-        self.fun_fact    = "I debug with coffee ☕ and ship with vibes ✨"
+```ini
+[identity]
+name        = "Sasanka Akash"
+handle      = "SESasanka"
+roles       = ["Full Stack Engineer", "AI/ML/DL Engineer"]
+location    = "Sri Lanka 🇱🇰"
+company     = "Synthwave Software Solutions"
+portfolio   = "https://sasanka.vercel.app/"
 
-    def greet(self):
-        return "Hey there! Let's build something incredible together 🚀"
+[expertise]
+frontend    = ["React", "Vue.js", "Next.js", "TypeScript", "TailwindCSS"]
+backend     = ["Node.js", "Python", "Java", "FastAPI", "Express"]
+ai_ml       = ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "OpenCV"]
+cloud       = ["AWS", "GCP", "Azure", "Docker", "Kubernetes"]
+databases   = ["MySQL", "MongoDB", "PostgreSQL"]
 
-me = SasankaAkash()
-print(me.greet())
+[status]
+currently   = "Leveling up on LLMs & MLOps 🔥"
+open_to     = "Collaborations, open source, and cool ideas"
+ask_me_about = "Full Stack, AI/ML, System Design, Cloud Arch"
 ```
 
 ---
 
-## ⚡ What I Do
+```bash
+$ ./skills --list --verbose
+```
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Full Stack Development
-- 🎨 Pixel-perfect, responsive UIs
-- 🔧 RESTful APIs & microservices
-- ☁️ Cloud deployment & scaling
-- 🚀 Performance optimization
-- 🛡️ Secure, production-grade apps
-
-</td>
-<td width="50%">
-
-### 🤖 AI / ML / DL Engineering
-- 🧠 Deep learning model design
-- 👁️ Computer vision & image AI
-- 💬 NLP & language models
-- 📊 Predictive analytics
-- 🚢 Model deployment to production
-
-</td>
-</tr>
-</table>
+```
+┌─────────────────────────────────────────────────────────────┐
+│  MODULE          │  TOOLS                          │  LVL   │
+├──────────────────┼─────────────────────────────────┼────────┤
+│  Frontend        │  React · Vue · Next · Tailwind  │  ████▓ │
+│  Backend         │  Node · Python · Java · FastAPI │  ████▓ │
+│  AI / ML / DL    │  TF · PyTorch · Keras · sklearn │  ████░ │
+│  Computer Vision │  OpenCV · CNNs · YOLO           │  ███▓░ │
+│  NLP             │  Transformers · LLMs · BERT     │  ███░░ │
+│  Cloud & DevOps  │  AWS · GCP · Docker · K8s       │  ████░ │
+│  Databases       │  MySQL · MongoDB · PostgreSQL   │  ████▓ │
+└─────────────────────────────────────────────────────────────┘
+  Legend: █ = mastered  ▓ = proficient  ░ = learning
+```
 
 ---
 
-## 🛠️ Tech Stack
+```bash
+$ git log --oneline --graph --all --decorate | head -20
+```
 
-### 💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+```
+🟢 LANGUAGES DEPLOYED
+──────────────────────────────────────
+  Python      ████████░░  80%
+  JavaScript  ███████░░░  70%
+  TypeScript  ██████░░░░  60%
+  Java        █████░░░░░  50%
+  C++         ████░░░░░░  40%
+  PHP         ███░░░░░░░  30%
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🤖 AI / ML / DL
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+✦ 23 repositories  ✦ 9 followers  ✦ 34 stars earned
+```
 
 ---
 
-## 📊 GitHub Stats
+```bash
+$ curl -s https://api.github.com/users/SESasanka/stats
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SESasanka&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SESasanka&theme=radical&hide_border=false" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SESasanka&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SESasanka&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=00cc33&icon_color=00FF41" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SESasanka&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00cc33&dates=00cc33" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+```bash
+$ cat /var/log/sasanka/currently_installing.log
+```
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SESasanka&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 🌱 Currently Leveling Up
-
-<table>
-<tr>
-<td>🔥 Advanced Transformers & LLMs</td>
-<td>🚀 MLOps & model deployment pipelines</td>
-</tr>
-<tr>
-<td>⚡ Distributed systems & scalability</td>
-<td>🌐 Web3 & blockchain technologies</td>
-</tr>
-<tr>
-<td>🎯 System design & architecture</td>
-<td>🧪 AI agents & multi-modal models</td>
-</tr>
-</table>
+```
+[INFO]  Downloading: advanced-transformers-and-LLMs.pkg   ████████░░  80%
+[INFO]  Downloading: mlops-deployment-pipelines.pkg        ██████░░░░  60%
+[INFO]  Downloading: distributed-systems-patterns.pkg      █████░░░░░  50%
+[INFO]  Downloading: web3-blockchain-technologies.pkg      ███░░░░░░░  30%
+[INFO]  Downloading: system-design-architecture.pkg        ███████░░░  70%
+[OK]    All packages queued. ETA: always learning...
+```
 
 ---
 
-## 🎬 YouTube & Content Creation
+```bash
+$ ls -la /home/sasanka/trophies/
+```
 
 <div align="center">
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-@codingwithsasanka-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codingwithsasanka)
-
-> 📹 I share coding tutorials, AI/ML deep dives, and full-stack projects — subscribe for weekly content!
+![](https://github-profile-trophy.vercel.app/?username=SESasanka&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+```bash
+$ cat /etc/sasanka/connect.sh
+```
+
+```bash
+#!/bin/bash
+# ── OPEN CHANNELS ──────────────────────────────────────
+
+connect() {
+  case $1 in
+    --linkedin)  xdg-open "https://linkedin.com/in/sasanka-akash" ;;
+    --youtube)   xdg-open "https://youtube.com/@codingwithsasanka" ;;
+    --twitter)   xdg-open "https://x.com/SE_Sasanka" ;;
+    --portfolio) xdg-open "https://sasanka.vercel.app/" ;;
+    --email)     xdg-open "mailto:sasankaakash89@gmail.com" ;;
+    *)           echo "Usage: connect [--linkedin|--youtube|--twitter|--portfolio|--email]" ;;
+  esac
+}
+```
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sasanka-akash">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://youtube.com/@codingwithsasanka">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://x.com/SE_Sasanka">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://sasanka.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-<a href="mailto:sasankaakash89@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/--linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sasanka-akash)
+[![YouTube](https://img.shields.io/badge/--youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@codingwithsasanka)
+[![Twitter](https://img.shields.io/badge/--twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/SE_Sasanka)
+[![Portfolio](https://img.shields.io/badge/--portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://sasanka.vercel.app/)
+[![Email](https://img.shields.io/badge/--email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sasankaakash89@gmail.com)
 
 </div>
 
@@ -197,8 +166,18 @@ print(me.greet())
 
 <div align="center">
 
-### 💡 *"Building the future, one line of code at a time."*
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Building the future, one line of code at a time."        ║
+║                                           — sasanka.akash    ║
+║                                                              ║
+║   root@sasanka:~$ █                                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CE93D8,25:4FC3F7,50:FFCA28,75:FF8E53,100:FF6B6B&height=120&section=footer" />
+![](https://img.shields.io/badge/Made_with-💚_and_lots_of_coffee-00FF41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/⭐_From-SESasanka-00FF41?style=flat-square&labelColor=0d1117)
 
 </div>
