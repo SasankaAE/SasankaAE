@@ -156,7 +156,7 @@ connect() {
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sasanka-akash)
 [![YouTube](https://img.shields.io/badge/--youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@codingwithsasanka)
-[![Twitter](https://img.shields.io/badge/--twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/SE_Sasanka)
+[![Twitter](https://img.shields.io/badge/--twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/SasankaAE)
 [![Portfolio](https://img.shields.io/badge/--portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://sasanka.vercel.app/)
 [![Email](https://img.shields.io/badge/--email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sasankaakash89@gmail.com)
 
