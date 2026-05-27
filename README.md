@@ -60,22 +60,22 @@ ask_me:     "Full Stack · AI/ML · System Design · Cloud"
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,fastapi,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,fastapi&theme=dark" />
 </p>
 
 ### 🤖 AI / ML / DL
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sklearn,opencv&theme=dark" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
 </p>
 
 ---
